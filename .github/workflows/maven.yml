@@ -37,5 +37,5 @@ jobs:
 
       - name: Run tests with Maven
         run: |
-          cd cd ontrack_submission2
+          cd ontrack_submission2
           mvn test
